@@ -5,6 +5,7 @@
 ![Sonar Coverage](https://img.shields.io/sonar/coverage/ThiagoBarradas_environment-api.svg?server=https%3A%2F%2Fsonarcloud.io)
  
 # Environment API
+Projeto construido por Thiago Barradas e usado como exemplo para aprendizado de pipeline Azure DevOps.
 
 A simple API that returns environment variables to use in talks, demos, etc;
 
